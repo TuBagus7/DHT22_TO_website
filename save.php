@@ -1,5 +1,5 @@
 <?php
-
+// ini untuk save
 include("config.php");
 
 // cek apakah tombol daftar sudah diklik atau blum?
