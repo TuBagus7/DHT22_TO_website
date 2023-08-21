@@ -1,6 +1,6 @@
 <?php include("config.php"); ?>
 
-
+<!-- ini halaman utama -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
