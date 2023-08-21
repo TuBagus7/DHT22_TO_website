@@ -10,4 +10,6 @@ $result = mysqli_query($db, "DELETE FROM suhu WHERE tanggal='$id'");
  
 // After delete redirect to Home, so that latest user list will be displayed.
 header("Location:index.php");
+
+//ini menghapus satu per satu
 ?>
